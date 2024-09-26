@@ -1,0 +1,3 @@
+# mobile.http
+### 
+GET http://localhost:3000/mobile/name-card/John/0891234567
