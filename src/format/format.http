@@ -1,0 +1,13 @@
+###
+GET http://localhost:3000/format/0891234567
+
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 12
+ETag: W/"c-D/7AFsg6dvO/CjXW2/tnAWeguVc"
+Date: Sat, 24 Aug 2024 04:14:39 GMT
+Connection: close
+
+089-123-4567
